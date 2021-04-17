@@ -19,7 +19,7 @@ spec:
   - key: staging
   - key: production
   ingress:
-    domain: "\U0001F937"
+    domain: 192.168.0.112.nip.io
     externalDNS: false
     kind: ingress
     namespaceSubDomain: -jx.
